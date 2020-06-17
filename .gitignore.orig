@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+ Visual Studio 2015 user specific files
+=======
 # Visual Studio 2015 user specific files
+>>>>>>> 4e3a0da46b10f49ecb07a363593a53d7c8346de6
 .vs/
 
 # Compiled Object files
@@ -72,4 +76,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+<<<<<<< HEAD
+
 Content/StarterContent/
+=======
+>>>>>>> 4e3a0da46b10f49ecb07a363593a53d7c8346de6
